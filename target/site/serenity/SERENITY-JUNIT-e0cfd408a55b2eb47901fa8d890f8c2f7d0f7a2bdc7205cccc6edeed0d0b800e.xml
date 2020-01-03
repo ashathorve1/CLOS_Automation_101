@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Forgot Password option" skipped="0" tests="1" time="16.47" timestamp="2019-12-31 10:04:26"><testcase name="Upon clicking on &quot;Forgot Password&quot; the system shall direct to Forgot your password page"/></testsuite>

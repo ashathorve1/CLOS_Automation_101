@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="742aa72d-6f6a-4857-aa3d-6bccd83c47a5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1VhP4QVpV50ud8TgGfJm5nUVtBq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/features/Login/TC1-Login into Salesforce account with valid credentials.feature" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Demo_Clos_Automation\src\test\resources\webdriver\windows" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Demo_Clos_Automation\src\test\resources\features\Login" />
+      <recent name="D:\Demo_Clos_Automation\src\test\resources\features" />
+      <recent name="D:\Demo_Clos_Automation\src\test\resources\Create Lead" />
+      <recent name="D:\Demo_Clos_Automation\src\test\resources\Login" />
+      <recent name="D:\Demo_Clos_Automation\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: TC7-Create new Lead with Save and New">
+    <configuration name="All Features in: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login" />
+      <option name="GLUE" value="stepDefination" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Demo_Clos_Automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="All Features in: Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: TC2-Login into Salesforce account with invalid username and valid password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login/TC2-Login into Salesforce account with invalid username and valid password.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Demo_Clos_Automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: TC2-Login into Salesforce account with invalid username and valid password" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: TC3-Login into Salesforce account with valid username and invalid password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login/TC3-Login into Salesforce account with valid username and invalid password.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Demo_Clos_Automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: TC3-Login into Salesforce account with valid username and invalid password" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: TC6-Create new Lead" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Create Lead/TC6-Create new Lead.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors stepDefination" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Demo_Clos_Automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: TC6-Create new Lead" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: TC7-Create new Lead with Save and New" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Create Lead/TC7-Create new Lead with Save and New.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors stepDefination" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Demo_Clos_Automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: TC7-Create new Lead with Save and New" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: The system shall create a new lead after all fields completed with valid data for lead creation and open new lead creation page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Create Lead/TC7-Create new Lead with Save and New.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Demo_Clos_Automation" />
+      <option name="NAME_FILTER" value="^The system shall create a new lead after all fields completed with valid data for lead creation and open new lead creation page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^The system shall create a new lead after all fields completed with valid data for lead creation and open new lead creation page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: The system shall create a new lead after all fields completed with valid data for lead creation and open new lead creation page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: The system shall create a new lead after all fields completed with valid data for lead creation" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Create Lead/TC6-Create new Lead.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors stepDefination" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Demo_Clos_Automation" />
+      <option name="NAME_FILTER" value="^The system shall create a new lead after all fields completed with valid data for lead creation$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^The system shall create a new lead after all fields completed with valid data for lead creation$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: The system shall create a new lead after all fields completed with valid data for lead creation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <module name="Demo_Clos_Automation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Unnamed" />
+      <item itemvalue="Cucumber java.Feature: TC3-Login into Salesforce account with valid username and invalid password" />
+      <item itemvalue="Cucumber java.Feature: TC2-Login into Salesforce account with invalid username and valid password" />
+      <item itemvalue="Cucumber java.All Features in: Login" />
+      <item itemvalue="Cucumber java.Scenario: The system shall create a new lead after all fields completed with valid data for lead creation" />
+      <item itemvalue="Cucumber java.Feature: TC6-Create new Lead" />
+      <item itemvalue="Cucumber java.Feature: TC7-Create new Lead with Save and New" />
+      <item itemvalue="Cucumber java.Scenario: The system shall create a new lead after all fields completed with valid data for lead creation and open new lead creation page" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: TC7-Create new Lead with Save and New" />
+        <item itemvalue="Cucumber java.Scenario: The system shall create a new lead after all fields completed with valid data for lead creation and open new lead creation page" />
+        <item itemvalue="Cucumber java.Feature: TC6-Create new Lead" />
+        <item itemvalue="Cucumber java.Scenario: The system shall create a new lead after all fields completed with valid data for lead creation" />
+        <item itemvalue="Cucumber java.All Features in: Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="742aa72d-6f6a-4857-aa3d-6bccd83c47a5" name="Default Changelist" comment="" />
+      <created>1577702161867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577702161867</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="45" key="#Feature:_TC1-Login_into_Salesforce_account_with_valid_credentials" timestamp="1577943217756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="399" y="45" key="#Feature:_TC1-Login_into_Salesforce_account_with_valid_credentials/0.0.1366.728@0.0.1366.728" timestamp="1577943217756" />
+    <state x="390" y="45" key="#Feature:_TC1-Login_into_Salesforce_account_with_valid_credentials_(1)" timestamp="1577943082079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="45" key="#Feature:_TC1-Login_into_Salesforce_account_with_valid_credentials_(1)/0.0.1366.728@0.0.1366.728" timestamp="1577943082079" />
+    <state x="337" y="45" key="#Feature:_TC2-Login_into_Salesforce_account_with_invalid_username_and_valid_password" timestamp="1577943051541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="45" key="#Feature:_TC2-Login_into_Salesforce_account_with_invalid_username_and_valid_password/0.0.1366.728@0.0.1366.728" timestamp="1577943051541" />
+    <state x="337" y="45" key="#Feature:_TC3-Login_into_Salesforce_account_with_valid_username_and_invalid_password" timestamp="1577943033917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="45" key="#Feature:_TC3-Login_into_Salesforce_account_with_valid_username_and_invalid_password/0.0.1366.728@0.0.1366.728" timestamp="1577943033917" />
+    <state x="342" y="45" key="#Feature:_TC4-Login_into_Salesforce_account_by_keeping_user_name_and_password_blank" timestamp="1577942078205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="342" y="45" key="#Feature:_TC4-Login_into_Salesforce_account_by_keeping_user_name_and_password_blank/0.0.1366.728@0.0.1366.728" timestamp="1577942078205" />
+    <state x="409" y="45" key="#Feature:_TC5-Forgot_Password_option" timestamp="1577943225540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="45" key="#Feature:_TC5-Forgot_Password_option/0.0.1366.728@0.0.1366.728" timestamp="1577943225540" />
+    <state x="275" y="26" key="#Inspections" timestamp="1577768964606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1577768964606" />
+    <state x="287" y="45" key="#Scenario:_The_system_should_allow_user_to_enter_login_credentials_and_allow_to_login_into_Salesforce_account" timestamp="1577941142631">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="287" y="45" key="#Scenario:_The_system_should_allow_user_to_enter_login_credentials_and_allow_to_login_into_Salesforce_account/0.0.1366.728@0.0.1366.728" timestamp="1577941142631" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577942815407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577942815407" />
+    <state x="425" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577710822527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577710822527" />
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577940833277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="155" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1577940833277" />
+    <state x="417" y="129" key="EnvironmentVariablesDialog" timestamp="1577943126045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="129" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577943126045" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1577943079359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577943079359" />
+    <state width="1323" height="296" key="GridCell.Tab.0.bottom" timestamp="1578023440649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578023440649" />
+    <state width="1323" height="296" key="GridCell.Tab.0.center" timestamp="1578023440649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578023440649" />
+    <state width="1323" height="296" key="GridCell.Tab.0.left" timestamp="1578023440648">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578023440648" />
+    <state width="1323" height="296" key="GridCell.Tab.0.right" timestamp="1578023440649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="296" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578023440649" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1577974200779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577974200779" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1577974200779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577974200779" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1577974200778">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577974200778" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1577974200779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577974200779" />
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog" timestamp="1577789315743">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="23" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1577789315743" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1577702198169">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577702198169" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1577768163758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1577768163758" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1578022297683">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578022297683" />
+    <state x="447" y="85" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577790100800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="85" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1577790100800" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1577702204739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1577702204739" />
+  </component>
+</project>

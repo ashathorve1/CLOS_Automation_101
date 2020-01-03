@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Login into Salesforce account with invalid username and valid password" skipped="0" tests="1" time="43.42" timestamp="2019-12-31 10:02:53"><testcase name="The system should not allow to login with invalid username and throw error by redirecting into same login page."/></testsuite>
